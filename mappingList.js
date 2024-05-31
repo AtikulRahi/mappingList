@@ -5,9 +5,3 @@ var appliedMap = list.map(function(vi){
 var listFc = ee.FeatureCollection(appliedMap)
 print(listFc)
 
-Export.table.toDrive({
-  collection: listFc,
-  description: 'FcShapefile',
-  fileFormat: 'CSV', 
-  folder: "GEE_exports"
-});
