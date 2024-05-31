@@ -1,1 +1,1 @@
-# mappingList
+Firstly make a list, then mapping the list and add dictionary and a null geometry. Here is the [GEE code link](https://code.earthengine.google.com/0030dd11c38209e87b03cb5495b8fd2b), then the [code](https://github.com/AtikulRahi/mappingList/blob/main/mappingList.js), lastly the [snapshot of the code](https://github.com/AtikulRahi/mappingList/blob/main/Mapping%20list.JPG).
